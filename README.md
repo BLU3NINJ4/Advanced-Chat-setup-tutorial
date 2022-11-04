@@ -1,5 +1,6 @@
-I just wanted to post this so everyone can see a little more detailed instruction on the chat mod ^_^
-Also to let everyone know if you need help with mods just hit me up 
+I made this guide for a better guide on how to install and setup the advanced chat mod
+And I ran out of space in my discord post lmao
+And again if you need any help with mods just send me a dm or just ask im glad to help
         
 :bangbang: You have to add all the mods while the game is closed:bangbang:
 
@@ -49,5 +50,7 @@ These you have to put in the advancedchat folder in the config folder in the min
 it should be a bit above the mods folder       
 ![image](https://user-images.githubusercontent.com/57180882/199858347-ec84d244-197a-4efd-852c-2e8401283de1.png)         
 When it asks you if you want to replace the old files say yes ^^
+
+And as a reminder if you need help hmu ^^
 
 
