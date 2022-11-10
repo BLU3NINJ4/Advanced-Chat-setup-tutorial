@@ -45,8 +45,7 @@ but its way better then having all msgs in the same window ^_^
 
 
 If you like it you can use my config files so it looks the same and you can customize it more from there        
-
-[BLU3NINJ4advancedchatconfig.zip](https://github.com/BLU3NINJ4/Advanced-Chat-setup-tutorial/files/9933796/BLU3NINJ4advancedchatconfig.zip)
+[BLU3NINJ4advancedchatconfig.zip](https://github.com/BLU3NINJ4/Advanced-Chat-setup-tutorial/files/9976425/BLU3NINJ4advancedchatconfig.zip)      
 These you have to put in the advancedchat folder in the config folder in the minecraft directory        
 it should be a bit above the mods folder        
 ![image](https://user-images.githubusercontent.com/57180882/199858347-ec84d244-197a-4efd-852c-2e8401283de1.png)         
