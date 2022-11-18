@@ -27,7 +27,7 @@ https://www.curseforge.com/minecraft/mc-mods/advancedchatcore
 https://www.curseforge.com/minecraft/mc-mods/advancedchathud    
 https://www.curseforge.com/minecraft/mc-mods/advancedchatlog    
 
-If you want to keep optifine you have to put this in the mod folder too         
+If you want to use optifine you need this mod called optifabric to make it compatible with fabric       
 https://www.curseforge.com/minecraft/mc-mods/optifabric         
 And also the optifine jar you get from          
 https://www.optifine.net/downloads              
